@@ -1,0 +1,34 @@
+{
+    "entropy_threshold": 3.0,
+    "long_subdomain_length": 20,
+    "high_frequency_threshold": 5,
+    "beaconing_min_interval": 1,
+    "beaconing_stdev_threshold": 0.5,
+
+    "dga_consonant_threshold": 0.7,
+    "subdomain_variation_threshold": 5,
+    "large_query_length": 50,
+
+    "mode": "hunting",
+
+    "suspicious_tlds": [
+        "boats",
+        "homes",
+        "top",
+        "xyz",
+        "click",
+        "shop",
+        "monster",
+        "zip",
+        "cam"
+    ],
+
+    "whitelist": [
+        "google.com",
+        "microsoft.com",
+        "windows.com",
+        "cloudflare.com",
+        "mshome.net",
+        "pki.goog"
+    ]
+}
