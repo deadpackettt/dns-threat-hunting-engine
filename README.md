@@ -26,3 +26,6 @@ Advanced DNS Threat Hunting and Detection Engineering tool for:
 
 ```bash
 python detector.py --pcap sample.pcap
+
+Sample malware PCAPs can be downloaded from:
+https://www.malware-traffic-analysis.net/
